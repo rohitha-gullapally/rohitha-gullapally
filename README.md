@@ -16,4 +16,5 @@ Data Analyst with 3+ years of experience analyzing healthcare and business datas
 
 ## Connect with Me
 LinkedIn: http://www.linkedin.com/in/rohitha-gullapally-4a36b7189
+
 GitHub: github.com/rohitha-gullapally
