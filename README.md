@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Rohitha 👋
 
-<!--
-**rohitha-gullapally/rohitha-gullapally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with 3+ years of experience analyzing healthcare and business datasets.
 
-Here are some ideas to get you started:
+## Skills
+- SQL
+- Python (Pandas, NumPy)
+- Power BI
+- Data Cleaning
+- Exploratory Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Customer Behavior Analysis
+- HR Analytics Dashboard
+- SQL Data Analysis Project
+
+## Connect with Me
+LinkedIn: http://www.linkedin.com/in/rohitha-gullapally-4a36b7189
+GitHub: github.com/rohitha-gullapally
